@@ -3,3 +3,5 @@ This currency converter was made live on twitch.tv/pwneddev, twitch removed the 
 USAGE: ./main.py <FROMCURRENCY> <TOCURRENCY> <AMOUNT>
 USAGE: ./webgui.py
 
+Follow at twitch.tv/PwnedDev for more livestreamed projects like this.
+
